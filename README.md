@@ -1,4 +1,4 @@
-# Estudos-lógica-JavaScript
+# Meu primeiro código 
 Meu primeiro projeto que fiz.
 Projeto simples feito com JavaScript puro durante meus estudos. 
 
